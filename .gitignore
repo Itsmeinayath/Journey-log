@@ -1,0 +1,19 @@
+# Dependencies
+/node_modules
+
+# Secret Files - NEVER commit these
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE Folders
+.vscode/
+.idea/
